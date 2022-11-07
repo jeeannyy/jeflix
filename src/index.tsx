@@ -42,7 +42,19 @@ footer, header, hgroup, main, menu, nav, section {
 }
 body {
   line-height: 1;
+
+  // remove scrollbar
+  -ms-overflow-style: none; 
+  scrollbar-width: none; 
+  overflow-y: scroll; 
 }
+
+
+body::-webkit-scrollbar {
+  display: none; /* for Chrome, Safari, and Opera */
+}
+
+
 menu, ol, ul {
   list-style: none;
 }
