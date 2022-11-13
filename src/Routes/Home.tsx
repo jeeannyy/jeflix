@@ -64,7 +64,6 @@ const Box = styled(motion.div)<{ bgPhoto: string }>`
 
 const Info = styled(motion.div)`
   padding: 10px;
-  /* background-color: white; */
   opacity: 0;
   position: absolute;
   width: 100%;
