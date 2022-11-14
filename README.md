@@ -6,7 +6,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 In the project directory, you can run:
 
-## https://jeeanny.github.io/netflix
+## https://jeeanny.github.io/moviesite
 
 ### `npm start`
 
