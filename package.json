@@ -1,6 +1,5 @@
 {
-  "name": "netflix",
-  "homepage": ".",
+  "name": "jeflix",
   "version": "0.1.0",
   "private": false,
   "dependencies": {
@@ -52,5 +51,6 @@
   },
   "devDependencies": {
     "@types/styled-components": "^5.1.26"
-  }
+  },
+  "homepage": "https://jeeanny.github.io/jeflix"
 }
