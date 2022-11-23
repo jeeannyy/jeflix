@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/jeflix/static/js/main.af1605d6.js",
+    "index.html": "/jeflix/index.html",
+    "main.af1605d6.js.map": "/jeflix/static/js/main.af1605d6.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.af1605d6.js"
+  ]
+}
