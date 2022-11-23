@@ -10,6 +10,7 @@ function App() {
     <Header />
     <Routes>
       <Route path="/jeflix" element={<Home />} />
+      <Route path="/" element={<Home />} />
       <Route path="/movies/:movieId" element={<Home />} />
       <Route path="https://jeeanny.github.io/moviesite" element={<Home />} />
       <Route path="/tv" element={<Tv />} />
