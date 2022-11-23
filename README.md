@@ -1,6 +1,6 @@
 # Jetflix
 
-This is a clone of Netflix website built using React.JS as a Front-end. It's not a replica, and it doesn't have all the features of Netflix website. it's a similar version of Netflix with my own design touch, practicing my React and TypeScript. TV shows page, box component and search bar feature will be updated soon.
+This is a clone of the Netflix website built using React.JS as a Front-end. It's not a replica and doesn't have all the features of the Netflix website. It's a similar version of Netflix with my own design touch, practising my React and TypeScript. The TV shows page, box component and search bar feature will be updated soon.
 Fetched the API from TMDB (https://www.themoviedb.org/documentation/api)
 
 ## Link
