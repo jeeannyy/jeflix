@@ -8,7 +8,7 @@ Fetched the API from TMDB (https://www.themoviedb.org/documentation/api)
 
 ## Link
 
-https://jeeannyy.github.io/jeflix/
+https://jeeannyy.github.io/jetflix/
 
 ## How to run
 
